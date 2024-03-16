@@ -1,0 +1,22 @@
+[
+  { "id": 1, "nombre": "Manzana", "emoji": "🍏", "checked": false },
+  { "id": 2, "nombre": "Banana", "emoji": "🍌", "checked": false },
+  { "id": 3, "nombre": "Naranja", "emoji": "🍊", "checked": false },
+  { "id": 4, "nombre": "Pera", "emoji": "🍐", "checked": false },
+  { "id": 5, "nombre": "Uva", "emoji": "🍇", "checked": false },
+  { "id": 6, "nombre": "Fresa", "emoji": "🍓", "checked": false },
+  { "id": 7, "nombre": "Papaya", "emoji": "🥭", "checked": false },
+  { "id": 8, "nombre": "Kiwi", "emoji": "🥝", "checked": false },
+  { "id": 9, "nombre": "Cereza", "emoji": "🍒", "checked": false },
+  { "id": 10, "nombre": "Piña", "emoji": "🍍", "checked": false },
+  { "id": 11, "nombre": "Sandía", "emoji": "🍉", "checked": false },
+  { "id": 12, "nombre": "Melón", "emoji": "🍈", "checked": false },
+  { "id": 13, "nombre": "Limón", "emoji": "🍋", "checked": false },
+  { "id": 14, "nombre": "Granada", "emoji": "🥭", "checked": false },
+  { "id": 15, "nombre": "Coco", "emoji": "🥥", "checked": false },
+  { "id": 16, "nombre": "Durazno", "emoji": "🍑", "checked": false },
+  { "id": 17, "nombre": "Mango", "emoji": "🥭", "checked": false },
+  { "id": 18, "nombre": "Guayaba", "emoji": "🍈", "checked": false },
+  { "id": 19, "nombre": "Ciruela", "emoji": "🍑", "checked": false },
+  { "id": 20, "nombre": "Higo", "emoji": "🫒", "checked": false }
+]
