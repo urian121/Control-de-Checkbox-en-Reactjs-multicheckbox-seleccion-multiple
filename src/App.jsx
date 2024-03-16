@@ -5,7 +5,9 @@ function App() {
   const [frutas, setFrutas] = useState(frutasData); // useState para manejar el estado de las frutas
   const [frutasSeleccionadas, setFrutasSeleccionadas] = useState([]); // useState para manejar las frutas seleccionadas
 
-  // Función para manejar el cambio en el checkbox
+  /**
+   * Esta función handleCheckboxChange se encarga de manejar el cambio de estado de un checkbox específico correspondiente a una fruta en la lista. Toma como argumento el id de la fruta que se desea cambiar y actualiza el estado de esa fruta en el arreglo frutas. Básicamente, verifica si el id de la fruta coincide con el id del checkbox que se ha cambiado y luego cambia el valor de la propiedad checked de esa fruta a su opuesto (true si estaba false, y false si estaba true). Luego, devuelve un nuevo arreglo de frutas actualizado con el cambio de estado.
+   */
   const handleCheckboxChange = (id) => {
     const updatedFrutas = frutas.map((fruta) =>
       fruta.id === id ? { ...fruta, checked: !fruta.checked } : fruta
